@@ -42,9 +42,9 @@ A few key insights:
 ---
 
 ## Conclusion:
-#### A very fun exercise, this project showcased the collection of data, the cleaning of data, the interpeting and analysis of data, and finally, the visualization of the results of the interpretation and analysis.
-#### It showcased how to use a webscraper to extract data from a website, and how to use a logical approach to formulating a business problem (_which skills should a data scientist learn_) and finally solving the problem using a data-driven approach.
-#### To solve the business problem: in order to be deemed a competent data scientist, based on 495 real companies' data scientists requirements, the skills one should focus on is python, statistics, statistical modelling, R, SQL, data visualization and cloud technologies, to name a few. The competencies one should focus on is being able to work in a team, machine learning and be in possession of a degree (ideally a postgraduate degree).
-#### A noteworthy insight achieved from the analysis of the 'data scientist', 'data engineer' and 'data analyst' job postings, which included +-1200 roles and almost 1.2 million words, was that the word 'team' was in the top 3 of competencies mentioned in all three roles.
+A very fun exercise, this project showcased the collection of data, the cleaning of data, the interpeting and analysis of data, and finally, the visualization of the results of the interpretation and analysis.
+It showcased how to use a webscraper to extract data from a website, and how to use a logical approach to formulating a business problem (_which skills should a data scientist learn_) and finally solving the problem using a data-driven approach.
+To solve the business problem: in order to be deemed a competent data scientist, based on 495 real companies' data scientists requirements, the skills one should focus on is python, statistics, statistical modelling, R, SQL, data visualization and cloud technologies, to name a few. The competencies one should focus on is being able to work in a team, machine learning and be in possession of a degree (ideally a postgraduate degree).
+A noteworthy insight achieved from the analysis of the 'data scientist', 'data engineer' and 'data analyst' job postings, which included +-1200 roles and almost 1.2 million words, was that the word 'team' was in the top 3 of competencies mentioned in all three roles.
 
-#### _Working with data is a team sport, let us never forget that._
+_Working with data is a team sport, let us never forget that._
